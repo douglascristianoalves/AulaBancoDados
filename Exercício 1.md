@@ -8,3 +8,4 @@ Para nós, cada dep/prof/disc/est/aval será essencial saber dados x, y, z. E o 
 
 
 > Faça um diagrama ER para este cenário.
+> Utilize o https://draw.io ou faça a mão livre.
